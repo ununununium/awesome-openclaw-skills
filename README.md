@@ -515,6 +515,7 @@
 | [YepCode](https://github.com/yepcode/mcp-server-js) | Execute any LLM-generated code in the YepCode secure and scalable sandbox environment and create you... | - |
 | [ZenML](https://github.com/zenml-io/mcp-zenml) | Interact with your MLOps and LLMOps pipelines through your ZenML MCP server | - |
 | [🧲 Magg 🧲](https://github.com/sitbon/magg) | A meta-MCP server that acts as a universal hub, allowing LLMs to autonomously discover, install, and... | - |
+| [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` | — |
 
 ## Code & Developer Tools
 
